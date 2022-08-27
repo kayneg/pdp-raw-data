@@ -1,30 +1,30 @@
 [
   {
-    "id": "1",
+    "id": "coding-excellence",
     "name": "Coding Excellence"
   },
   {
-    "id": "2",
+    "id": "continuous-delivery",
     "name": "Continuous Delivery"
   },
   {
-    "id": "3",
+    "id": "quality",
     "name": "Quality"
   },
   {
-    "id": "4",
+    "id": "architecture",
     "name": "Architecture & Design"
   },
   {
-    "id": "5",
+    "id": "process",
     "name": "Process"
   },
   {
-    "id": "6",
+    "id": "teamwork",
     "name": "Teamwork",
   },
   {
-    "id": "7",
+    "id": "soft-skills",
     "name": "Soft skills"
   }
 ]
