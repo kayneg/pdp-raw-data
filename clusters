@@ -1,37 +1,30 @@
 [
   {
     "id": "1",
-    "name": "Coding Excellence",
-    "bullets": ["1"]
+    "name": "Coding Excellence"
   },
   {
     "id": "2",
-    "name": "Continuous Delivery",
-     "bullets": ["1"]
+    "name": "Continuous Delivery"
   },
   {
     "id": "3",
-    "name": "Quality",
-    "bullets": ["1"]
+    "name": "Quality"
   },
   {
     "id": "4",
-    "name": "Architecture & Design",
-    "bullets": ["1"]
+    "name": "Architecture & Design"
   },
   {
     "id": "5",
-    "name": "Process",
-    "bullets": ["1"]
+    "name": "Process"
   },
   {
     "id": "6",
     "name": "Teamwork",
-    "bullets": ["1"]
   },
   {
     "id": "7",
-    "name": "Soft skills",
-    "bullets": ["1"]
+    "name": "Soft skills"
   }
 ]
