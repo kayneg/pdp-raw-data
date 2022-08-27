@@ -1,0 +1,14 @@
+[
+  {
+    "id": "1",
+    "category": "people",
+    "label": "Mission Accomplished",
+    "imgUrl": "https: //github.com/kayneg/pdp-raw-data/blob/main/mission-accomplished.png?raw=true"
+  },
+  {
+    "id": "2",
+    "category": "people",
+    "label": "Go for it",
+    "imgUrl": "https: //github.com/kayneg/pdp-raw-data/blob/main/go-for-it.png?raw=true"
+  }
+]
